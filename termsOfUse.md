@@ -2,7 +2,7 @@
 
 # Terms of Use Agreement
 
-Welcome to Bookt.com, the website and online service of Bookt LLC. (&quot;Bookt,&quot; &quot;we,&quot; or &quot;us&quot;). This page explains the terms by which you may use our online and/or mobile services, web site, and software provided on or in connection with the service (collectively the &quot;Service&quot;). By accessing or using the Service, you signify that you have read, understood, and agree to be bound by this Terms of Use Agreement (&quot;Agreement&quot;) and to the collection and use of your information as set forth in the Bookt Privacy Policy [[Privacy Policy],](../Bookt%20Privacy%20Policy%20(Revised%204.30.15).docx) whether or not you are a registered user of our Service. Bookt reserves the right to make unilateral modifications to these terms and will provide notice of these changes as described below. This Agreement applies to all visitors, users, and others who access the Service (&quot;Users&quot;).
+Welcome to Bookt.com, the website and online service of Bookt LLC. (&quot;Bookt,&quot; &quot;we,&quot; or &quot;us&quot;). This page explains the terms by which you may use our online and/or mobile services, web site, and software provided on or in connection with the service (collectively the &quot;Service&quot;). By accessing or using the Service, you signify that you have read, understood, and agree to be bound by this Terms of Use Agreement (&quot;Agreement&quot;) and to the collection and use of your information as set forth in the Bookt Privacy Policy [[Privacy Policy],](../privacy-policy) whether or not you are a registered user of our Service. Bookt reserves the right to make unilateral modifications to these terms and will provide notice of these changes as described below. This Agreement applies to all visitors, users, and others who access the Service (&quot;Users&quot;).
 
 PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THIS AGREEMENT CONTAINS A MANDATORY INDIVIDUAL ARBITRATION AND CLASS ACTION/JURY TRIAL WAIVER PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS.
 
@@ -101,7 +101,7 @@ PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISIO
 
 1. **Privacy**
 
-    We care about the privacy of our Users. You understand that by using the Services you consent to the collection, use and disclosure of your personally identifiable information and aggregate data as set forth in our Privacy Policy [[Privacy Policy](../Bookt%20Privacy%20Policy%20(Revised%204.30.15).docx)], and to have your personally identifiable information collected, used, transferred to and processed in the United States.
+    We care about the privacy of our Users. You understand that by using the Services you consent to the collection, use and disclosure of your personally identifiable information and aggregate data as set forth in our Privacy Policy [[Privacy Policy](../privacy-policy)], and to have your personally identifiable information collected, used, transferred to and processed in the United States.
 
 1. **Security**
 

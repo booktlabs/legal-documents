@@ -1,6 +1,6 @@
-**BOOKT, LLC. and SNAPcaSt, CoRp**
+## BOOKT, LLC. and SNAPCast, Corp
 
-**Privacy Policy**
+# Privacy Policy
 
 Welcome to the online and mobile services of Bookt LLC. (&quot;Bookt,&quot; &quot;we,&quot; or &quot;us&quot;) and to the online and mobile services of SnapCast, Corp. (&quot;SnapCast&quot;, &quot;we&quot; or &quot;us&quot;). Bookt, LLC and SnapCast, Corp are separate legal entities, that maintain between them certain software licensing, data sharing, data licensing and data storage agreements.
 
