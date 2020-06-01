@@ -40,7 +40,7 @@ Click on the links below to jump to each section of this Privacy Policy:
 # 
 1. **HOW WE COLLECT AND USE INFORMATION**<a name="howwecollectanduseinformation"></a>
 
-    Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our respective Terms of Use [Hyperlink to SnapCast Terms of Use][Hyperlink toBookt Terms of Use].
+    Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our respective Terms of Use [[Hyperlink to SnapCast Terms of Use]](../terms-of-use).
 
     Bookt and SnapCast, Corp collect, use, disclose and share your private information for operational business purposes. We collect the following types of information about you:
 
