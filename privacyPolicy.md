@@ -1,4 +1,4 @@
-## BOOKT, LLC. and SNAPCast, Corp
+## BOOKT, LLC. and SnapCast, Corp
 
 # Privacy Policy
 
